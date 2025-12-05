@@ -1,3 +1,5 @@
+## Quick Notes & Important Concepts
+
 1. use camelCase for variables
 2. value of identifier (variable) is called literal - 5 is int literal, 5.0 is double literal
 3. Unary operator
